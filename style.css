@@ -25,3 +25,7 @@ p {
     margin-top: 30vh;
     
 }
+
+.right_sec {
+    display: flex;
+}
