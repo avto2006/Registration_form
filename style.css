@@ -1,3 +1,27 @@
 body {
     background: linear-gradient(45deg, rgb(88, 166, 192),rgb(66, 215, 66));
+    background-attachment: fixed;
+}
+
+p {
+    color: white;
+}
+
+.aboutUsBtn {
+   color: green;
+   font-size: 20px;
+   background-color: white;
+   width: 150px;
+   height: 30px;
+   border-radius: 25px;
+   text-align: center;
+   padding: 1vh;
+   padding-top: 1.5vh;
+}
+
+.registration_form {
+    display: grid;
+    margin-left: 50vh;
+    margin-top: 30vh;
+    
 }
